@@ -1,0 +1,46 @@
+Let's go over a couple examples of simple prompts.    You can get away with a very simple prompt but the response may not give you everything you want.     Let's first look at the structure of a prompt and how to make it effective:
+
+Some basic Structure rules:
+
+Offer Context -
+	a.  Like a human, AI does better with context -  
+		i. Think about exactly what you are trying to get a response about and tailor the prompt specifically to that.
+		
+		"write a document about the importance of AI in technology and especially Microsoft technology and how does it benefit humans,  both technical and non-technical humans "
+
+Another  example
+
+Basic Prompt -  "Write about AI"
+Better Prompt -  "Write a blog post about the importance of AI in the current Technology Field as well for other professions"
+
+Adding context in this case about the output response is the key takeaway… in this case we are asking it to write a blog post AND about the area we want to target "Technology"
+
+
+Use some of these handy expressions
+Sometimes it's just about finding the exact phrase that OpenAI will respond to. Here are a few phrases that folks have found work well with OpenAI to achieve certain outcomes. 
+
+"Let's think step by step"
+
+This makes the AI think logically and can be specifically helpful with math problems. 
+
+"Thinking backwards"
+
+### This can help if the AI keeps arriving at inaccurate conclusions.
+
+"In the style of [famous person]"
+
+This will help match styles really well.
+
+"As a [insert profession/role]"
+
+This helps frame the bot's knowledge, so it knows what it knows—and what it doesn't. 
+
+
+Add additional information to help model
+
+"write a document about the importance of AI in technology and especially Microsoft technology and how does it benefit humans,  both technical and non-technical humans" 
+
+		a. For the above example with AI find some relative information about the subject and add it in to help the model understand how to tailor the response.
+		b. Another to think about is summarizing content into a format that is much easier to comprehend a given passage.   
+For Example
+"AI, or Artificial Intelligence, refers to the development of computer systems capable of performing tasks that typically require human intelligence."
