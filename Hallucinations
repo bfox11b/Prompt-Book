@@ -1,0 +1,7 @@
+Hallucinations in GPT models refer to instances where the model generates text that is factually incorrect or inconsistent with reality. There are several factors that can contribute to hallucinations in GPT models, including:
+	• Training data: If the model's training data contains errors or inaccuracies, the model may generate text that reflects these errors.
+		○ Ensure that the model's training data is accurate and free of errors can help reduce the likelihood of hallucinations
+	• Temperature setting: A high temperature setting can increase the model's creativity, but it can also increase the likelihood of generating text that is inconsistent with reality.
+		○ Adjusting the temperature setting to a lower value can help reduce the level of creativity and randomness, making it less likely for the model to generate text that is inconsistent with reality.2
+	• Prompt: The prompt provided to the model can also influence the likelihood of hallucinations. If the prompt is vague or ambiguous, the model may generate text that is inconsistent with the intended meaning.
+Providing a clear and unambiguous prompt can help guide the model in generating text that is consistent with the intended meaning.
