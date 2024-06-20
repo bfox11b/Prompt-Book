@@ -15,5 +15,3 @@ Feel free to reach me directly if you have any questions or ideas you would like
 Bob   
 bob.fox@microsoft.com
 
-P
-![image](https://github.com/bfox11b/Prompt-Book/assets/5076163/d2892186-d5ad-42e2-bcd1-da40449f04bb)
