@@ -1,0 +1,65 @@
+In GPT, temperature or tone refers to adjustable parameters that control the randomness and style of the generated text.
+• Temperature: This parameter affects the level of creativity in the model’s responses. Lower values result in more focused and deterministic outputs, while higher values introduce randomness and diversity.
+• Tone: Tone influences the emotional quality or formality of the generated text. By specifying the desired style (whether formal or informal), you can tailor the output to your specific needs.
+Examples:
+1. Low Temperature (Focused): “Write a concise summary of this article.”
+2. High Temperature (Random): “Compose a whimsical poem about unicorns.”
+Remember, adjusting these parameters allows you to fine-tune the model’s output to match your preferences and requirements.
+
+
+3. Clarity and Specificity:
+• Clarity: Use simple, unambiguous language that avoids jargon and overly complex vocabulary. Instead of keeping your queries short and snappy, take the long-winded way to make your point sufficiently clear to the model.
+• Example of an unclear prompt: “Who won the election?”
+• Example of a clear prompt: “Which party won the 2023 general election in Paraguay?”
+• Specificity: Provide context. Tell the model as much as it needs to know to answer your question. Sometimes, this can veer almost into storytelling territory.
+• Example of an unspecific prompt: “Generate a list of titles for my autobiography.”
+• Example of a specific prompt: “Generate a list of ten titles for my autobiography. The book is about my journey as an adventurer who has lived an unconventional life, meeting many different personalities and finally finding peace in gardening.”
+4. Prompt Engineering Hacks:
+• Do Say “Do,” Don’t Say “Don’t”: “Do” instructions are more specific than “don’t.” Specify exactly what you want the model to do.
+• Instead of saying, “Don’t produce overly long titles,” say, “Generate concise titles for my autobiography.”
+5. Be Clear and Concise:
+• Use clear and concise prompts to ensure the AI tool understands the intended meaning and generates a relevant response.
+• Long and complex prompts can confuse the AI tool and lead to irrelevant or inaccurate outcomes.
+Remember, crafting effective prompts is essential for harnessing the enormous potential of language models. Experiment, iterate, and tailor your prompts to achieve the desired results! 
+
+In Bing Copilot you may have seen the following when you open the tool.   This is also Temperature with More Creative set to 1.   More Balanced set to 0.5 and More Precise set to 0.   Clear as mud right?  Point is that each setting will render a different tone as a response.   I typically will leave it at Well Balanced (Unless I am working with Code)
+
+
+
+
+
+For Tone, or Temperature (however you want to call it,  here is a set of examples…. AND they work…. Even in Copilot in Teams when you are regenerating a chat message… 
+
+
+Curious on Tone Words you could possibly use if desired?  And all work :)
+
+Go into any AI tool of your choosing… Bing Copilot, ChatGPT whatever.   Enter this prompt:
+
+Professional, Casual, confident, enthusiastic , sarcastic... What are these terms considering in the English language and can you provide a list of more words??  When you reply please format the response in a table.  Thank you!
+
+
+You should get a result similar to this chart.   If you want more Tone words just iterate "Please provide more to this table"
+
+Tone Word	Description
+	
+Formal:	Respectful, professional, suitable for official documents or academic writing.
+Informal:	Easygoing, friendly, used in casual conversations or informal emails.
+Sarcastic:	Sharp, cutting, saying the opposite of what you mean.
+Optimistic:	Hopeful, positive outlook on life.
+Joyful:	Exudes happiness and delight.
+Angry:	Frustrated, intense, sharp words.
+Calm:	Soothing, composed, like a serene lake.
+Depressed:	Reflects sadness or heaviness.
+Hostile:	Aggressively unfriendly, like a brewing storm.
+Matter-of-fact:	Neutral, presents information without emotion.
+Euphoric:	Overflowing with joy, like dancing on air.
+Melancholic:	A deep, pensive sadness, as if raindrops fall within.
+Whimsical:	Playful, with a touch of fanciful imagination.
+Resigned:	Accepting fate with a quiet surrender.
+Bittersweet:	A mix of happiness and sorrow, like a fading sunset.
+Authoritative:	Commanding, with an assertive confidence.
+Wistful:	Longing for something lost, a gentle ache.
+Cynical:	Skeptical, seeing the world through doubtful eyes.
+Lighthearted:	Carefree, as if butterflies flutter in your chest.
+Defiant:	Boldly standing against, fueled by rebellion.
+
