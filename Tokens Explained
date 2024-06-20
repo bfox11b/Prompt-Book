@@ -21,3 +21,4 @@ Here are some examples to help you understand how words are broken down into tok
 	• Example 2: The sentence 'She is happy.' can be tokenized into four tokens: 'She', 'is', 'happy', and '.'.
 	• Example 3: The sentence 'I like ice-cream' can be tokenized into four tokens: 'I', 'like', 'ice-cream'. In each of these examples, the words and punctuation marks are separated into individual tokens. This makes it easier to analyze and process the text.
 
+
