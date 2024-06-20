@@ -53,3 +53,4 @@ Examples:
 7. Text Summarization: Offering a brief summary of an article as a “shot” to generate a condensed version.
 8. Image Captioning: Providing a single descriptive sentence about an image to prompt the model for relevant captions.
 Remember, iterative prompting streamlines communication and allows models to perform effectively with minimal input.
+
