@@ -13,5 +13,5 @@ Sharing is Caring….. Good luck in your journey
 Feel free to reach me directly if you have any questions or ideas you would like to have added.
 
 Bob   
-bob.fox@microsoft.com
+
 
