@@ -1,0 +1,55 @@
+Zero Shot Prompting
+
+Zero-shot prompting is a technique in natural language processing where a language model is asked to perform a task or generate a response for which it hasn't been trained. Instead of providing specific examples, a general instruction or description is given. This allows the model to leverage its existing knowledge and understanding to perform the task in new scenarios. For instance, asking a language model the capital of France without training it specifically on that question. Zero-shot prompting enables models to generalize and handle a variety of queries and tasks.
+
+Example:
+What is the capital of New Jersey
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Single Shot Prompting
+
+Definition: Single Shot Prompting is a technique in which a single, succinct prompt is given to a language model to generate a specific response. Rather than overwhelming the model with extensive instructions, this approach focuses on precision and relevance.
+Examples:
+1. Poetry Generation: Instead of detailed instructions, a single shot prompt like “Compose a romantic poem about the moon” can yield beautiful verses.
+2. Coding Challenges: For coding tasks, a concise problem statement such as “Write a Python function to calculate Fibonacci series” guides the model effectively.
+Remember, single shot prompts streamline communication and enhance model performance by providing clear, targeted input.
+
+Example:
+"Describe the Eifel Tower in three sentences"
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Few Shot Prompting
+
+Definition: Few Shot Prompting is a technique where a model is given limited additional information or “shots” to enhance its performance. Instead of overwhelming the model with extensive context, this approach provides concise input.
+Examples:
+3. Text Summarization: Offering a brief summary of an article as a “shot” to generate a condensed version.
+4. Image Captioning: Providing a single descriptive sentence about an image to prompt the model for relevant captions.
+Remember, few shot prompting streamlines communication and allows models to perform effectively with minimal input.
+
+More Examples 
+Write a poem in the style of William Wordsworth about the beauty of nature.
+
+Example:
+I wandered lonely as a cloud
+That floats on high o'er vales and hills,
+When all at once I saw a crowd,
+A host, of golden daffodils
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Chain of Thought Reasoning
+Definition: Chain of Thought Reasoning is a technique used to break down tasks and enhance the reasoning skills of the LLM (Language Learning Model). 
+It is particularly effective for handling complex math questions. Additionally, this approach aids in reducing hallucinations.
+Examples:
+5. Math Problem Solving: When faced with a complex math problem, breaking it down step by step allows the model to reason through each component.
+6. Text Generation: For generating coherent paragraphs, the chain of thought approach ensures logical flow and minimizes irrelevant content.
+Remember, chaining thoughts systematically improves model performance and reduces cognitive noise.
+
+For Example:
+Who was the most decorated (maximum medals) individual athlete in the Olympic games that were held at Sydney? Take a step-by-step approach in your response, 
+cite sources and give reasoning before sharing final answer in the below format: ANSWER is
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Iterative Prompting
+Definition: Iterative Prompting is a technique where a model is given limited additional information or “shots” to enhance its performance. 
+Instead of overwhelming the model with extensive context, this approach provides concise input.
+Examples:
+7. Text Summarization: Offering a brief summary of an article as a “shot” to generate a condensed version.
+8. Image Captioning: Providing a single descriptive sentence about an image to prompt the model for relevant captions.
+Remember, iterative prompting streamlines communication and allows models to perform effectively with minimal input.
